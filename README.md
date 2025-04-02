@@ -1,6 +1,6 @@
 # Description
 
-This project is a game that uses Java and some of the visual functionalities provided by the `JOptionPane` class to simulate the Monty Hall paradox.
+This project is a game that uses Java and some of the visual functionalities provided by the `Swing` library to simulate the Monty Hall paradox.
 
 The Monty Hall paradox is based on a game show scenario where a contestant is presented with three doors. Behind one door is a car, and behind the other two are goats. The contestant first chooses one door, after which the host, who knows what is behind each door, opens one of the remaining doors to reveal a goat. The contestant is then given the option to either stick with their original choice or switch to the other unopened door.
 
